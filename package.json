@@ -11,5 +11,6 @@
   "main": "server.js",
   "scripts": {
     "start": "node --watch server.js"
-  }
+  },
+  "author": "Your Name <your-email@example.com>"
 }
