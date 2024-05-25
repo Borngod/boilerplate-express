@@ -12,5 +12,5 @@
   "scripts": {
     "start": "node --watch server.js"
   },
-  "author": "Your Name <your-email@example.com>"
+  "author": "Bernard <appiahbernard42@gmail.com>"
 }
